@@ -1,6 +1,7 @@
 # Link Extractor
 
 A Simple utility for extracting media urls from differennt social media websites.
+View on [pub.dev](https://pub.dev/packages/link_extractor)
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link] [![License: MIT][license_badge]][license_link]
 
