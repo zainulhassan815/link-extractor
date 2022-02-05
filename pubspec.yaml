@@ -1,0 +1,16 @@
+name: link_extractor
+description: A Simple utility for extracting media urls from different websites.
+version: 1.0.0+1
+publish_to: https://github.com/zainulhassan815/link-extractor.git
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.19.2
+  very_good_analysis: ^2.4.0
+
+dependencies:
+  equatable: ^2.0.3
+  html_character_entities: ^1.0.0+1
+  http: ^0.13.4
