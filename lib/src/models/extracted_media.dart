@@ -18,7 +18,7 @@ class ExtractedMedia extends Equatable {
 
   @override
   List<Object?> get props => [url, quality];
-  
+
   @override
   bool? get stringify => true;
 }

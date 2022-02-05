@@ -2,7 +2,6 @@ import 'package:link_extractor/src/sites/site.dart';
 
 /// A utitlity class that matches url for a specific website.
 abstract class Matcher {
-
   /// A regex string that will be used to match given url.
   String get regex;
 
